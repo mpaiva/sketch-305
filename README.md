@@ -4,6 +4,13 @@ A community-driven Sketch series to build a Design System. Visit us at http://me
 ## Part 1 - What a great turn out!
 Thanks everyone for showing up to our first meetup! We had an outstanding turn out, and the Fajitas were delicious.
 
+Here's the [Google Slide presentation](https://docs.google.com/presentation/d/e/2PACX-1vTIXkGaK_voF3oUUbU8HrIyg-RJfV5DKKO91bYMXCzK1vuBWflmQTCGwK2BVZI2Fg3s8k0AhrFlQyw4/pub?start=false&loop=false&delayms=3000) we shared along with the links:
+
+- [FLUX Yeah! Slack Invite](http://bit.ly/fluxyeah) - This is where all the cool local designers are hanging out and sharing their love. (Thanks Jordan, Sarah and AJ!)
+- [Donate Link](https://secure.meetup.com/sketch-305/contribute/) - consider contributing to this community help us cover our costs and keep the fun going.
+
+
+
 ### Sketch Introduction
 We reviewed the Sketch interface and created a simple button with label.
 
@@ -45,9 +52,11 @@ The following are some of the handy tips and shortcuts mentioned during the Part
  - [FontAwesome](https://fontawesome.com/) - Free icon desktop font library with more the 1200 icons.
 
 ## Big Thanks to:
-Our organizers Marta Guerra, Lise Pilot and Ketan Rajput.
+Our organizers Marta Guerra, Lise Pilot and Ketan Rajput;
 
-And to the folks that helped with a symbolic contribution to help us cover our costs and continue to have fun.
+Our beloved [FLUX Yeah!](http://bit.ly/fluxyeah) community;
+
+And the contributors that helped with a symbolic donation to help us cover our costs and continue to have fun.
 
 You may contribute with any amount at our MeetUp page:
 https://secure.meetup.com/sketch-305/contribute/
