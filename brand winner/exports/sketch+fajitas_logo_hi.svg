@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1110px" height="1110px" viewBox="0 0 1110 1110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>sketch+fajitas_logo_hi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-230.000000, -254.000000)" fill-rule="nonzero">
+            <g id="sketch+fajitas_logo_hi" transform="translate(230.000000, 254.000000)">
+                <rect id="Rectangle" fill="#01003E" x="0" y="0" width="1110" height="1110"></rect>
+                <g id="Group-3" transform="translate(130.000000, 208.000000)">
+                    <g id="Group" transform="translate(0.000000, 234.000000)" stroke="#FDAD00" stroke-linecap="round" stroke-linejoin="round" stroke-width="20">
+                        <path d="M850,45.3924128 C850,45.3924128 425.482896,522 425.482896,522 C376.859256,392.161256 318.021854,238.254298 425.482896,96.2309014 C532.943938,-45.7924955 730.117285,-1.36061602 850,45.3924128 Z" id="Oval" fill="#FDC919"></path>
+                        <g id="Group-2" fill="#FDAD00">
+                            <path d="M425,96.8706753 C318.552355,238.246434 376.544888,391.338259 425,520.710622 C424.838927,521.140677 424.67796,521.57047 424.517104,522 L0,45.3924128 C119.882715,-1.36061602 317.056062,-45.7924955 424.517104,96.2309014 C424.678444,96.4441326 424.839409,96.6573906 425,96.8706753 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                    <g id="Group-4" transform="translate(37.000000, 0.000000)">
+                        <path d="M389,0 L597,200.838188 C554.528276,202.072969 516.134011,208.478171 481.817204,220.053793 C447.500398,231.629415 416.56133,248.611484 389,271 C362.1343,248.833063 331.195231,231.844459 296.182796,220.03419 C261.17036,208.223921 222.776095,201.825254 181,200.838188 L389,0 Z" id="Path" fill="#FEEEB7"></path>
+                        <polygon id="Path" fill="#FDC919" points="622 200 414 0 610.817204 26.2008734"></polygon>
+                        <polygon id="Path" fill="#FDAD00" points="626 26 778 226 637.176471 199.799127"></polygon>
+                        <polygon id="Path" fill="#FDC919" points="156 200 167.182796 26.2008734 364 0"></polygon>
+                        <polygon id="Path" fill="#FDAD00" points="152 26 140.823529 199.799127 0 226"></polygon>
+                    </g>
+                </g>
+                <g id="Group-7" transform="translate(577.000000, 504.000000)">
+                    <g id="Group-6" transform="translate(174.282723, 0.000000)">
+                        <path d="M3.19198105,62.4566223 L159.951206,62.2257776 C165.299128,62.2179022 169.640859,66.5468648 169.648734,71.8947863 C169.648748,71.9042942 169.648748,71.9138021 169.648734,71.92331 L169.648704,71.9437451 C169.640813,77.3007687 165.300053,81.6415271 159.943029,81.6494158 L3.18380379,81.8802606 C-2.16411768,81.888136 -6.50584888,77.5591733 -6.51372427,72.2112518 C-6.51373827,72.2017439 -6.51373827,72.192236 -6.51372427,72.1827281 L-6.51369416,72.1622931 C-6.50580293,66.8052695 -2.16504258,62.4645111 3.19198105,62.4566223 Z" id="Rectangle" fill="#FDAD00" transform="translate(81.567505, 72.053019) rotate(-48.000000) translate(-81.567505, -72.053019) "></path>
+                        <g id="Group-5" transform="translate(0.000000, 138.782178)" fill="#FDC919">
+                            <ellipse id="Oval" cx="10.815802" cy="9.72772277" rx="9.87529748" ry="9.72772277"></ellipse>
+                        </g>
+                    </g>
+                    <ellipse id="Oval" fill="#FDAD00" cx="85.8752975" cy="78.7277228" rx="9.87529748" ry="9.72772277"></ellipse>
+                    <ellipse id="Oval" fill="#FDAD00" cx="9.87529748" cy="179.727723" rx="9.87529748" ry="9.72772277"></ellipse>
+                    <ellipse id="Oval" fill="#FDAD00" cx="19.8752975" cy="324.727723" rx="9.87529748" ry="9.72772277"></ellipse>
+                </g>
+                <ellipse id="Oval" fill="#FDC919" cx="358" cy="521.5" rx="10" ry="9.5"></ellipse>
+                <ellipse id="Oval" fill="#FDC919" cx="236" cy="525.5" rx="10" ry="9.5"></ellipse>
+                <ellipse id="Oval" fill="#FDC919" cx="368" cy="642.5" rx="10" ry="9.5"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
